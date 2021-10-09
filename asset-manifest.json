@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/usetheme/static/css/main.9bb4c6b9.chunk.css",
+    "main.js": "/usetheme/static/js/main.38ba65ea.chunk.js",
+    "main.js.map": "/usetheme/static/js/main.38ba65ea.chunk.js.map",
+    "runtime-main.js": "/usetheme/static/js/runtime-main.ab0ec4ae.js",
+    "runtime-main.js.map": "/usetheme/static/js/runtime-main.ab0ec4ae.js.map",
+    "static/js/2.cfa4870c.chunk.js": "/usetheme/static/js/2.cfa4870c.chunk.js",
+    "static/js/2.cfa4870c.chunk.js.map": "/usetheme/static/js/2.cfa4870c.chunk.js.map",
+    "index.html": "/usetheme/index.html",
+    "static/css/main.9bb4c6b9.chunk.css.map": "/usetheme/static/css/main.9bb4c6b9.chunk.css.map",
+    "static/js/2.cfa4870c.chunk.js.LICENSE.txt": "/usetheme/static/js/2.cfa4870c.chunk.js.LICENSE.txt",
+    "static/media/mountain.018c8586.jpg": "/usetheme/static/media/mountain.018c8586.jpg",
+    "static/media/mountain2.3fb1917e.jpg": "/usetheme/static/media/mountain2.3fb1917e.jpg",
+    "static/media/nightview2.e1005349.jpg": "/usetheme/static/media/nightview2.e1005349.jpg",
+    "static/media/profile.c3f94521.png": "/usetheme/static/media/profile.c3f94521.png",
+    "static/media/share.132ed48d.png": "/usetheme/static/media/share.132ed48d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab0ec4ae.js",
+    "static/js/2.cfa4870c.chunk.js",
+    "static/css/main.9bb4c6b9.chunk.css",
+    "static/js/main.38ba65ea.chunk.js"
+  ]
+}
