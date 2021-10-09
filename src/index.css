@@ -1,13 +1,82 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.maindiv{
+  padding: 2%;
+  background-color:rgb(250, 193, 173);
+  justify-content: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 2%;
+  border: 1px solid rgb(0, 0, 0);
+  box-shadow: 5px 5px 5px 5px rgb(90, 1, 1);
+}
+@media screen and (max-width: 1200px) {
+  .maindiv{
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+}
+@media screen and (max-width: 600px) {
+  .maindiv{
+    margin-left: 2%;
+    margin-right: 2%;
+  }
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.maindiv2{
+  /* margin: auto !important; */
+  padding: 2%;
+  justify-content: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 2%;
+  border: 1px solid rgb(51, 2, 2);
+  box-shadow: 5px 5px 5px 5px rgb(167, 116, 116)  !important;
+}
+@media screen and (max-width: 1200px) {
+  .maindiv2{
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+}
+@media screen and (max-width: 600px) {
+  .maindiv2{
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+}
+
+.nam{
+  font-weight: bolder;
+  font-size: 22px;
+}
+.nam2{
+  font-weight: bolder;
+  font-size: 22px;
+  color: red;
+}
+
+.profilepic{
+  border-radius: 50px;
+  margin-left: 30px;
+}
+/* .bdypic{
+  margin-left: 10%;
+} */
+.msg{
+  font-size: 1.5em !important;
+  margin-left: 5%;
+  margin-top: 0%;
+  color: brown;
+}
+.msg2{
+  font-size: 1.5em !important;
+  margin-left: 5%;
+  margin-top: 0%;
+}
+
+/* .date{
+  margin-left: 2%;
+} */
+.icon1{
+  margin-right: 13%;
+  padding: 2%;
 }
